@@ -5,6 +5,10 @@
 
 This project focuses on analyzing data from the ICC Men’s T20 World Cup 2024. Using Python, the datasets are imported and analyzed to uncover key trends, statistics, and insights about team performances, individual player achievements, and match outcomes. The project leverages libraries like Pandas, NumPy, Matplotlib, and Seaborn for data manipulation, cleaning, and visualization.
 
+![dashboard](bar plot.png)
+
+![Screenshot 2024-09-24 224617](https://github.com/user-attachments/assets/912c909b-a606-4f5c-a540-99a4467c0de1)
+
 ### Data Sources
 ICC Mens T20 Worldcup 2024 data: the primary dataset used for this analysis is the "ICC Mens T20 Worldcup 2024.csv" file containing detalis about scores, wins, wickets, etc made by ICC.
 
